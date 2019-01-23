@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["takkanm"]
   spec.email         = ["takkanm@gmail.com"]
 
-  spec.summary       = %q{kaminari adapter for Rectify::Query}
-  spec.description   = %q{kaminari adapter for Rectify::Query}
+  spec.summary       = %q{Kaminari adapter for Rectify::Query}
+  spec.description   = %q{Kaminari adapter for Rectify::Query}
   spec.homepage      = "https://github.com/esminc/kaminari-rectify-query"
   spec.license       = "MIT"
 
